@@ -4,6 +4,12 @@ Backend Java Developer specialized in building secure, scalable REST APIs using 
 
 I focus on clean architecture, security (JWT), testable code, and production-ready configurations.
 
+## 🚀 Live Projects
+
+📚 **Library API (Spring Boot, JWT, PostgreSQL)**  
+🔗 https://librarymanagementsystem-oddu.onrender.com 
+📄 Swagger: https://librarymanagementsystem-oddu.onrender.com/swagger-ui/index.html
+
 🧠 Technical Focus:
 
 Backend development with Java 17
