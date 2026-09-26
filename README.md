@@ -1,8 +1,8 @@
 👋 Hi, I’m Jorge Cotera López
 
-Backend Java Developer specialized in building secure, scalable REST APIs using Spring Boot.
+Fullstack Java and React Developer specialized in building secure, scalable APIs using Spring Boot.
 
-I focus on clean architecture, security (JWT), testable code, and production-ready configurations.
+I focus on clean architecture, security, testable code, and production-ready configurations.
 
 ## 🚀 Live Projects
 
@@ -12,11 +12,11 @@ I focus on clean architecture, security (JWT), testable code, and production-rea
 
 🧠 Technical Focus:
 
-Backend development with Java 17
+Backend development with Java 17, 21 & 25
 
-REST APIs with Spring Boot
+REST and GraphQL APIs with Spring Boot
 
-Authentication & authorization using JWT
+Authentication & authorization OAuth2
 
 Data persistence with Spring Data JPA
 
